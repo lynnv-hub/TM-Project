@@ -1,14 +1,19 @@
 ## How different news outlets frame elections globally
-
+- Fridolin, Jagoda, Lynn
 ## Abstract
 A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+We want to examine how major news outlets report on elections across different countries. By comparing coverage across elections and outlets, it aims to show how media framing varies and to see if there are patterns across different countries. This matters because news framing shapes public perception of political events and influences how global elections are understood.
 
 ## Research questions
 A list of research questions you would like to address during the project. 
 
 How do different major US news outlets evaluate selected elections globally? 
+
 How consistent are outlet specific patterns when looking at different countries? 
+
 How do the profiles of media outlets match their expected political alignment?
+
 How do GDELT sentiment scores compare to indepentently calculated ones?
 
 ## Dataset
@@ -24,14 +29,14 @@ Possible problems could be different amount of articles of the outlets per elect
 
 ## A tentative list of milestones for the project
 Add here a sketch of your planning for the coming weeks. Please mention who does what.
-
+*still tentative* 
 
 ### Data Collection and Cleaning
-The first important step is to extract the correct data for the different elections via BigQuery. The datasets then have to be cleaned up (missing values, duplicates etc.).  
+The first important step is to extract the correct data for the different elections via BigQuery. The datasets then have to be cleaned up (missing values, duplicates etc.).  (Jagoda)
 ### Analysation and Profiling
-We will use the already existing sentiment score by GDELT and additionally build our own sentiment analysis (BERT model). Then we will compute the scores per outlet and elections and compare the two different results, to build profiles of the different outlets.   
+We will use the already existing sentiment score by GDELT and additionally build our own sentiment analysis (BERT model). Then we will compute the scores per outlet and elections and compare the two different results, to build profiles of the different outlets.   (Fridolin)
 ### Analyse results
-An important step is to analyse and find reasons for diverging scores. Additionaly it has to be analysed if the profiles of outlets match the expected political leaning.
+An important step is to analyse and find reasons for diverging scores. Additionaly it has to be analysed if the profiles of outlets match the expected political leaning. (Lynn)
 
 ## Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
