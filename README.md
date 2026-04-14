@@ -1,7 +1,3 @@
-# TM-Project
-
-# Default repository template
-
 ## Title
 
 ## Abstract
