@@ -1,0 +1,10 @@
+SQLDATE,SOURCEURL,Actor1CountryCode,Actor2CountryCode,AvgTone
+20191013,https://www.nytimes.com/2019/10/13/world/europe/poland-election.html,POL,POL,-1.99081163859112
+20191014,https://www.cnn.com/2019/10/14/europe/hungary-poland-election-results-intl/,HUN,,0.97680097680098
+20191013,https://www.nytimes.com/2019/10/13/world/europe/poland-election.html,POL,,-1.99081163859112
+20191014,https://www.nytimes.com/reuters/2019/10/13/world/europe/13reuters-poland-election-hungary-orban.html,HUN,POL,10.4651162790698
+20191014,https://www.cnn.com/2019/10/14/europe/hungary-poland-election-results-intl/,EUR,BEL,0.97680097680098
+20191014,https://www.cnn.com/2019/10/14/europe/hungary-poland-election-results-intl/,EUR,HUN,0.97680097680098
+20191014,https://www.cnn.com/2019/10/14/europe/hungary-poland-election-results-intl/,HUN,,0.97680097680098
+20191014,https://www.cnn.com/2019/10/14/europe/hungary-poland-election-results-intl/,,HUN,0.97680097680098
+20191013,https://www.nytimes.com/2019/10/13/world/europe/poland-election.html,POL,POL,-1.99081163859112
