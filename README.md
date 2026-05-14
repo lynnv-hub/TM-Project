@@ -40,3 +40,7 @@ An important step is to analyse and find reasons for diverging scores. Additiona
 
 ## Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
+
+## Sources 
+
+[Susannapaoli web-scraper-nyt](https://github.com/susannapaoli/web-scraper-nyt)
