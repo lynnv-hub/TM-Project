@@ -1,0 +1,253 @@
+article_id,outlet,sentence,mention,label,probability
+2,Fox News,"Oh, and don’t forget charges of fraud at Trump University and the stories — never convincingly rebutted — of his corrupt use of money intended for charity.",Trump,negative,0.9915
+2,Fox News,Any sign that Donald Trump might grab one of those states threatens Clinton’s path to early victory.,Donald Trump,negative,0.9365
+2,Fox News,But Trump’s toxicity with racial minorities has given Democrats reason to believe they can do well.,Trump,negative,0.9815
+2,Fox News,Trump holds the lead in polls.,Trump,positive,0.8311
+2,Fox News,"Polls close there at 7:30 p.m. As of Sunday, the RealClearPolitics polling average in the state showed a small advantage for Trump.",Trump,positive,0.5294
+2,Fox News,But Trump’s racist rhetoric about Latinos has given Democrats new hope in the state with the second largest share of Hispanics in the nation: 39 percent.,Trump,negative,0.9805
+2,Fox News,Polls show Trump leading but home-state Sen. Ted Cruz beat him in the state’s GOP primary by 17 points.,Trump,positive,0.6848
+2,Fox News,Trump can’t afford to lose a solid GOP state.,Trump,negative,0.6384
+2,Fox News,"But some recent polls show that independent candidate Evan McMullin, a former CIA officer and a Mormon, is competitive with Trump and Clinton.",Trump,neutral,0.7234
+4,Fox News,"Fox News Election Headquarters opens for business at 6 p.m. ET, bringing viewers the latest news as Americans register their votes for Republican nominee Donald Trump and Democratic standard bearer Hillary Clinton.",Donald Trump,neutral,0.7312
+4,Fox News,"“Either you have Donald Trump, this guy who no one even thought would be the nominee -- much less this close to the presidency -- going to the White House,” Komissaroff said.",Donald Trump,negative,0.7065
+7,Fox News,"Karl Rove: People Rose Up & Voted Trump Because They Were Tired Of What Obama Has Done To America
+Karl Rove, former Deputy Chief of Staff and Senior Advisor to President George W. Bush, stopped by Kilmeade & Friends to break down how Donald Trump pulled off the upset victory over Hillary Clinton.",Trump,negative,0.7878
+7,Fox News,"Karl Rove: People Rose Up & Voted Trump Because They Were Tired Of What Obama Has Done To America
+Karl Rove, former Deputy Chief of Staff and Senior Advisor to President George W. Bush, stopped by Kilmeade & Friends to break down how Donald Trump pulled off the upset victory over Hillary Clinton.",Donald Trump,negative,0.7626
+7,Fox News,"Rove said he was blown away by Trump winning Wisconsin, something he thought would never happen.",Trump,positive,0.6731
+7,Fox News,Karl also explained how Evangelicals played a big role in helping propel Trump to victory and how some of the rhetoric on the left has been more hurtful than anything Trump has said in the past.,Trump,negative,0.6748
+7,Fox News,Karl also explained how Evangelicals played a big role in helping propel Trump to victory and how some of the rhetoric on the left has been more hurtful than anything Trump has said in the past.,Trump,negative,0.6748
+8,CNN,"A slightly larger share of black and Latino voters cast ballots for Trump than supported Mitt Romney in 2012, despite Trump’s disparaging remarks on African-Americans, Mexicans and undocumented immigrants.",Trump,negative,0.8549
+8,CNN,"A slightly larger share of black and Latino voters cast ballots for Trump than supported Mitt Romney in 2012, despite Trump’s disparaging remarks on African-Americans, Mexicans and undocumented immigrants.",Trump,negative,0.8678
+8,CNN,"“If we let this thing slip and I’ve got a situation where my last two months in office are preparing for a transition to Donald Trump, whose staff people have said that their primary agenda is to have him in the first couple of weeks sitting in the Oval Office and reverse every single thing that we’ve done,” Obama said last week during an interview on a syndicated radio program.",Donald Trump,negative,0.4472
+8,CNN,"Some 88% of African-American voters supported Clinton, versus 8% for Donald Trump, as of very early Wednesday morning.",Donald Trump,neutral,0.4978
+8,CNN,This lowered turnout happened even after Trump repeatedly made sweeping comments about how black communities were in the worst shape ever.,Trump,negative,0.979
+8,CNN,"Referring multiple times to “inner cities,” Trump said black people live in poverty, have no jobs and get shot walking down the street.",Trump,neutral,0.593
+8,CNN,"Read: Trump: Black communities in worst shape ‘ever, ever, ever
+Clinton’s support among Latinos was even more tenuous, despite Trump pledging to build a wall on the Mexican border, accusing undocumented immigrants of being criminal aliens and promising to deport them.",Trump,negative,0.9329
+8,CNN,"Read: Trump: Black communities in worst shape ‘ever, ever, ever
+Clinton’s support among Latinos was even more tenuous, despite Trump pledging to build a wall on the Mexican border, accusing undocumented immigrants of being criminal aliens and promising to deport them.",Trump,negative,0.9437
+8,CNN,"Only 65% of Latinos backed her, while 29% cast their votes for Trump.",Trump,neutral,0.6658
+8,CNN,"Read: What Donald Trump has said about Mexico and vice versa
+Beyond the Obama coalition, Clinton was also not as popular with white voters as Obama was.",Donald Trump,neutral,0.9018
+8,CNN,"Surprisingly, Trump also garnered a slightly smaller share than Romney, capturing 58% of the vote to Romney’s 59%.",Trump,negative,0.7195
+8,CNN,"She won 55% of voters age 18 to 29, compared to 37% who cast ballots for Trump.",Trump,neutral,0.6482
+8,CNN,"Read: Donald Trump’s trouble with women – an incomplete list
+When it came to women voters, Clinton won 54% compared to Trump’s 42%.",Donald Trump,negative,0.9838
+8,CNN,"Read: Donald Trump’s trouble with women – an incomplete list
+When it came to women voters, Clinton won 54% compared to Trump’s 42%.",Trump,negative,0.9833
+8,CNN,"Even though 70% of voters said that Trump’s treatment of women bothered them, they still didn’t flock to the woman who could have broken the glass ceiling.",Trump,negative,0.9926
+9,Fox News,"Donald Trump defied the polls and pundits until the very end, defeating Democratic nominee Hillary Clinton in Tuesday’s presidential election.",Donald Trump,positive,0.627
+9,Fox News,Trump acknowledged during his acceptance speech early Wednesday morning saying America will “get along with all other nations willing to get along with us.”,Trump,positive,0.8087
+9,Fox News,Russian President Vladimir Putin congratulated Donald Trump on winning the U.S. presidential election.,Donald Trump,positive,0.82
+9,Fox News,"""
+A top Palestinian official acknowledged on Wednesday that he doesn’t expect the U.S. positions to change on the Israeli-Palestinian conflict under Donald Trump.",Donald Trump,neutral,0.5458
+9,Fox News,"""
+During his speech on Wednesday morning, Trump had a message of hope saying he plans for America to “deal fairly with everyone, all people, and all nations.”",Trump,positive,0.9477
+9,Fox News,"While some comments of Trump’s victory were positive, others were not as warm.",Trump,positive,0.8173
+9,Fox News,Some people say that under a Trump administration they fear they'll be prevented from visiting relatives and friends who live in America or traveling there as tourists.,Trump,negative,0.9532
+9,Fox News,"A couple of Chinese participants at a U.S. Embassy event in Beijing say they'd welcome a Trump presidency, while another says he thinks the Republican candidate projects a flawed image of the United States.",Trump,negative,0.6901
+9,Fox News,"""
+Carlos Alzugaray, a political scientist and retired Cuban diplomat, said a Trump victory could, however, please some hard-liners in the Cuban leadership who worried that Cuba was moving too close to the United States too quickly.",Trump,positive,0.7037
+9,Fox News,"Many people joked threatening to leave the U.S. in the event of a Trump win, however Canada and the prospect of Americans moving there appears to have drawn so much online interest that it has knocked out the country's immigration website.",Trump,negative,0.6617
+9,Fox News,"Searches for ""move to Canada"" and ""immigrate to Canada"" spiked Tuesday night as election returns favored Republican nominee Donald Trump.",Donald Trump,positive,0.5624
+9,Fox News,The NATO chief discussed Trump’s call for counter-terrorism efforts saying he’s ready to discuss his push further but a collective defense of Europe is needed.,Trump,positive,0.7562
+9,Fox News,"Trump’s speech was one of inclusion, a desire for change and a new chapter for America with a message of creating a nation for all and helping world relations adding, “We will have great relations all around the world.”",Trump,positive,0.9752
+10,NYT,The election of Donald J. Trump as president of the United States has shocked the world — and has the potential to reshape it .,Donald J. Trump,negative,0.6385
+10,NYT,"“I want to tell the world community that while we will always put America’s interests first, we will deal fairly with everyone, with everyone — all people and all other nations,” Mr. Trump said in his victory speech .",Trump,positive,0.9298
+10,NYT,"Leaders from Asia , Europe and Latin America offered congratulations to Mr. Trump or to the United States, but the distinctions in their messages were noteworthy.",Trump,positive,0.8933
+10,NYT,"Latin American heads of state wished Mr. Trump well, and offered their own ideas on how he might govern.",Trump,positive,0.9257
+10,NYT,"Venezuela, a country that Mr. Trump has repeatedly criticized for its leftist leadership, asked Mr. Trump to essentially mind his own country’s business by “respecting nonintervention in internal issues and to the right of development and peace.”",Trump,negative,0.6553
+10,NYT,"Venezuela, a country that Mr. Trump has repeatedly criticized for its leftist leadership, asked Mr. Trump to essentially mind his own country’s business by “respecting nonintervention in internal issues and to the right of development and peace.”",Trump,negative,0.6553
+10,NYT,"Mr. Trump has criticized a trade agreement between Colombia and the United States, among many other trade deals.",Trump,negative,0.7602
+10,NYT,"Álvaro García Linera, Bolivia’s leftist vice president, said the voters’ endorsement of Mr. Trump’s populist message shows how Americans, too, are questioning prevailing economic paradigms in “a passive revolution,” this time coming from the right.",Trump,positive,0.7332
+10,NYT,“This threat called Trump is a product of American society; a nightmarish mutation of the American dream.”,Trump,negative,0.9852
+10,NYT,Mr. Trump’s campaign — and his promise to build a wall on the United States-Mexico border and to deport millions of immigrants in the country illegally — became a rallying point for Mexicans.,Trump,positive,0.8394
+10,NYT,— AZAM AHMED President Mauricio Macri had rooted for Hillary Clinton but said he hoped to work with Mr. Trump.,Trump,positive,0.5572
+10,NYT,"Earlier in the week, Foreign Minister Susana Malcorra warned that a Trump victory would bring relations between the United States and Argentina “to a standstill,” but on Wednesday she praised his “conciliatory” victory speech.",Trump,positive,0.5592
+10,NYT,But Mr. Trump’s promise to revisit Nafta brings unwelcome uncertainty to Canada’s economy.,Trump,negative,0.8822
+10,NYT,Mr. Trudeau’s open approach to immigration and refugees is the inverse of Mr. Trump’s.,Trump,neutral,0.5981
+10,NYT,And Canada will be in a difficult position if it imposes carbon taxes only to find that Mr. Trump undoes all American efforts to mitigate climate change.,Trump,negative,0.9881
+10,NYT,One of the few positive developments for Canada is Mr. Trump’s promise to reverse the Obama administration’s decision to block the Keystone XL pipeline.,Trump,positive,0.669
+10,NYT,Mr. Trump has demanded that the NATO allies of the United States foot more of the bill for their collective defense.,Trump,neutral,0.6057
+10,NYT,"The two top officials of the European Union — Donald Tusk, president of the European Council, and Jean-Claude Juncker, president of the European Commission — congratulated Mr. Trump and invited him to visit Europe .",Donald,positive,0.8071
+10,NYT,"The two top officials of the European Union — Donald Tusk, president of the European Council, and Jean-Claude Juncker, president of the European Commission — congratulated Mr. Trump and invited him to visit Europe .",Trump,positive,0.852
+10,NYT,"Later, however, Mr. Tusk, a former prime minister of Poland, warned that Britain’s decision to leave the European Union, and the election of Mr. Trump, should raise alarms.",Trump,negative,0.7464
+10,NYT,"Guy Verhofstadt, the leader of a prominent group of lawmakers in the European Parliament and a former prime minister of Belgium, called Mr. Trump’s victory “a wake-up call for European leaders,” adding, “Donald Trump has declared several times that our priorities are not his.”",Trump,negative,0.6498
+10,NYT,"Guy Verhofstadt, the leader of a prominent group of lawmakers in the European Parliament and a former prime minister of Belgium, called Mr. Trump’s victory “a wake-up call for European leaders,” adding, “Donald Trump has declared several times that our priorities are not his.”",Donald Trump,negative,0.7051
+10,NYT,President François Hollande of France noted that “some of Donald Trump’s campaign positions must be put to the test of the values and the interests that we share with the United States.”,Donald Trump,negative,0.5344
+10,NYT,"The French prime minister, Jean-Marc Ayrault, asked, “What will become of the Paris agreement on the climate, of the nuclear deal with Iran that Donald Trump wants to reconsider?”",Donald Trump,negative,0.8452
+10,NYT,Chancellor Angela Merkel congratulated Mr. Trump and offered her cooperation — but stressed that it must rest on human rights and nondiscrimination.,Trump,positive,0.8744
+10,NYT,"Germany’s foreign minister, Frank-Walter Steinmeier, said that “if Donald Trump really wants to be president of all Americans, then I think his first duty is to fill in the deep rifts which arose during the campaign.”",Donald Trump,positive,0.658
+10,NYT,"— AURELIEN BREEDEN, JAMES KANTER and ALISON SMALE Two anti-immigrant nationalist leaders — Geert Wilders in the Netherlands and Marine Le Pen in France — cheered Mr. Trump’s victory.",Trump,positive,0.7046
+10,NYT,He called Mr. Trump’s election “a historic victory” and “a revolution.”,Trump,positive,0.9227
+10,NYT,"Ms. Le Pen, the leader of the National Front in France and a candidate for the French presidency, congratulated Mr. Trump on Twitter and declared the American people “free!”",Trump,positive,0.8723
+10,NYT,"Prime Minister Viktor Orban of Hungary, one of the few European leaders who spoke favorably of Mr. Trump during the campaign, wrote on Facebook : “What a great news.",Trump,positive,0.734
+10,NYT,"— BENOÎT MORENNE and MARTIN de BOURMONT Mr. Trump has called the January agreement between Iran and world powers “the worst deal ever,” and he has vowed to unilaterally abandon it.",Trump,negative,0.9428
+10,NYT,"Some analysts said the election of Mr. Trump was the result of an “awakening,” Iran’s ideological label for some of the Arab Spring revolts.",Trump,positive,0.7676
+10,NYT,"— THOMAS ERDBRINK “President-elect Trump is a true friend of the State of Israel, and I look forward to working with him to advance security, stability and peace in our region,” Prime Minister Benjamin Netanyahu said in a statement.",Trump,positive,0.9413
+10,NYT,"— ISABEL KERSHNER Across the Middle East, where the United States has a long history of often divisive involvement, many seemed to have no idea how to react to the election of Mr. Trump.",Trump,negative,0.5765
+10,NYT,"President Abdel Fattah el-Sisi of Egypt and Prime Minister Binali Yildirim of Turkey quickly congratulated Mr. Trump, but official reaction was scarce from Saudi Arabia.",Trump,positive,0.5143
+10,NYT,Mr. Trump said the kingdom may no longer be able to count on American defense guarantees and should give the United States “ free oil for the next 10 years .”,Trump,neutral,0.8935
+10,NYT,"Many have expressed worry that Mr. Trump’s negative statements about Islam and Muslims would translate into aggressive policies in the region, as well as making it harder for displaced Syrians to seek refuge.",Trump,negative,0.991
+10,NYT,"“Hand in hand with Trump, we will try to work together,” he said.",Trump,positive,0.8091
+10,NYT,"On the campaign trail, Mr. Trump singled out Japan.",Trump,neutral,0.834
+10,NYT,A rising China could put a check on Mr. Trump’s stated ambitions in Asia.,Trump,neutral,0.5935
+10,NYT,And then most of the alliance countries and security experts in Washington will be against Trump’s policies.,Trump,negative,0.9313
+10,NYT,It is a little difficult for Trump to just change all the old policies.”,Trump,negative,0.9109
+10,NYT,Mr. Trump’s talk of disengaging could embolden Mr. Abe’s efforts to build its military capabilities and strengthen ties with Russia.,Trump,negative,0.8692
+10,NYT,— MOTOKO RICH and HISAKO UENO President Park Geun-hye of South Korea instructed her government to coordinate closely with Mr. Trump’s transition team to ensure that her country and the United States would maintain sanctions and pressure on North Korea to stop its nuclear weapons program.,Trump,neutral,0.7198
+10,NYT,Mr. Trump unsettled South Koreans when he said that he might withdraw American troops from their country unless Seoul paid more for their presence.,Trump,negative,0.969
+10,NYT,"Mr. Trump’s surprisingly strong performance caught analysts off guard, but it was welcome news for those in South Korea who believe that their country must build its own nuclear weapons to defend against North Korea.",Trump,positive,0.9102
+10,NYT,— CHOE SANG-HUN Prime Minister Najib Razak of Malaysia was one of the first leaders to offer effusive praise for Mr. Trump.,Trump,positive,0.8395
+10,NYT,Donald Trump was considered a distant outsider when his candidacy was first announced.,Donald Trump,negative,0.7518
+10,NYT,Mr. Trump’s success shows that politicians should never take voters for granted.”,Trump,positive,0.953
+10,NYT,"Mr. Najib, who has stared down corruption charges , added, “His appeal to Americans who have been left behind — those who want to see their government more focused on their interests and welfare, and less embroiled in foreign interventions that proved to be against U.S. interests — have won Mr. Trump the White House.”",Trump,positive,0.7358
+10,NYT,"Arriving in Malaysia on Wednesday evening, Rodrigo Duterte, the president of the Philippines, who has lashed out at the United States and at Mr. Obama in often profane comments , mentioned Mr. Trump in a speech to overseas Filipino workers.",Trump,neutral,0.7278
+10,NYT,"— SEWELL CHAN and RICHARD C. PADDOCK Prime Minister Narendra Modi said in a tweet addressed at Mr. Trump , “We appreciate the friendship you have articulated towards India during your campaign.”",Trump,neutral,0.4692
+10,NYT,"Manjeet Kripalani, the executive director of Gateway House, a Mumbai-based think tank, likened Mr. Trump to Putin of Russia, President Recep Tayyip Erdogan of Turkey, and Mr. Modi.",Trump,negative,0.9274
+10,NYT,"As far as any change in the relationship between India and the United States is concerned, she predicted, “You will find the Trump administration being realistic about Pakistan, being realistic about India and realistic about China.”",Trump,positive,0.893
+11,NYT,A Trump presidency will plunge the United States into an era of unknowns that has little parallel in the nation’s 240-year history.,Trump,negative,0.9182
+11,NYT,"While Donald J. Trump has been vague about his position on many issues, he has been explicit about several that would fundamentally change America’s direction.",Donald J. Trump,negative,0.9173
+11,NYT,"Mr. Trump said he would replace the act with something better, but he never offered a plan.",Trump,negative,0.6633
+11,NYT,"The Supreme Court would veer right – perhaps eventually far to the right of where it was before Justice Antonin Scalia’s death created a vacancy that Mr. Trump will now fill, and there is the prospect of several more openings during his tenure.",Trump,positive,0.583
+11,NYT,"Although Mr. Trump will not be able to pull the United States out of the Paris climate accord, he can legally ignore its provisions, in keeping with his questioning of the existence of man-made climate change.",Trump,negative,0.9632
+11,NYT,"As the president-elect, Mr. Trump will soon be briefed on how to use America’s nuclear codes – the codes Hillary Clinton and Mr. Obama said he could never be trusted to hold.",Trump,neutral,0.781
+11,NYT,"And within the first year of his presidency, it should become clear whether Mr. Trump meant it when he said that he was comfortable with the thought that Japan and South Korea, both signatories to the Nuclear Nonproliferation Treaty, might abandon its longtime commitment and build weapons of their own.",Trump,negative,0.4203
+11,NYT,"If the United States “keeps on its path, its current path of weakness, they’re going to want to have that anyway, with or without me discussing it,” Mr. Trump said.",Trump,neutral,0.9459
+11,NYT,"Perhaps the most unpredictable matter is how Mr. Trump will deal with Russia and its president, Vladimir V. Putin, whom he has repeatedly praised in terms that shocked even his own party.",Trump,negative,0.8123
+11,NYT,Would he lift the sanctions over Russia’s annexation of Crimea – a move that Mr. Trump seemed to suggest was justified – and its harassment of Ukraine?,Trump,neutral,0.4271
+11,NYT,"But Mr. Trump never once argued for Russian containment – once a staple of his party’s foreign policy – and repeatedly argued that he, and he alone, could negotiate with authoritarians like Mr. Putin.",Trump,negative,0.8937
+11,NYT,"Mr. Trump dismissed Russia’s human rights violations, its jailing of journalists and political opponents, its rigged elections.",Trump,neutral,0.4797
+11,NYT,Mr. Trump has been consistent in some areas.,Trump,positive,0.9119
+11,NYT,He maintained that position even as Japan faded from the scene as a major world power and as Saudi Arabia emerged as one of America’s most critical allies in a region of the world where Mr. Trump sees little reason for the United States to remain.,Trump,neutral,0.4854
+11,NYT,"“If Saudi Arabia was without the cloak of American protection,” Mr. Trump said during a 100-minute conversation, “I don’t think it would be around.”",Trump,neutral,0.9619
+11,NYT,"Indeed, the world is about to discover whether the most outlandish promises Mr. Trump made in his campaign about rethinking the international order – thoughts that often seemed at best off the cuff – are about to become reality.",Trump,negative,0.9668
+11,NYT,"Financial markets abroad panicked on Tuesday night, fearful that a Trump presidency would instantly send the country into uncertain economic territory that investors had discounted as wholly improbable just 24 hours ago.",Trump,negative,0.9823
+11,NYT,"Mr. Trump, who never argued with the notion that he is a protectionist, time and again vowed to punish companies that move jobs abroad, a task that would begin with the abolishment of Nafta, the trade agreement that once was envisioned, by President Bill Clinton, as the first step unifying the Western Hemisphere.",Trump,negative,0.9665
+11,NYT,"To Mr. Trump, it is “a disaster.”",Trump,neutral,0.9334
+11,NYT,"The Trump vision, in fact, is an America unbound by a half-century of trade deals, free to pursue a nationalistic approach in which success is measured not by the quality of its alliances but the economic return on its transactions.",Trump,positive,0.8903
+11,NYT,"Starting with the day he descended the long escalator in Trump Tower in June 2015 to begin a quest almost no one thought would succeed, Mr. Trump laid out an agenda of tax cuts – modest for families, and sharp for businesses – that he argued would be the stimulus a sluggish economy needs.",Trump,positive,0.7906
+11,NYT,"Starting with the day he descended the long escalator in Trump Tower in June 2015 to begin a quest almost no one thought would succeed, Mr. Trump laid out an agenda of tax cuts – modest for families, and sharp for businesses – that he argued would be the stimulus a sluggish economy needs.",Trump,positive,0.7906
+11,NYT,"While privatization is hardly a new idea, Mr. Trump has described an approach few have ever tried before – and it is far from clear how it would work.",Trump,neutral,0.4879
+11,NYT,"In Mr. Trump, Professor Allison sees a revolution in approach reminiscent of the 1828 election of Andrew Jackson, another populist who rode to power rebelling against what amounted to America’s first Establishment.",Trump,positive,0.6896
+11,NYT,"“My God,” Professor Allison said on Tuesday night, as the results veered toward Mr. Trump.",Trump,neutral,0.8247
+12,NYT,"OTTAWA — The move-to-Canada memes started spreading in earnest shortly after Donald J. Trump looked increasingly likely to win Florida: “Election Night Starter Kit,” read a post on Instagram, above photos of United States passports and an Air Canada plane.",Donald J. Trump,positive,0.6945
+12,NYT,"On the other side of the border, Canadians reacted to Mr. Trump’s election win with concerns of their own, even anxiety, but also a whiff of pride.",Trump,positive,0.8489
+12,NYT,Now the Canadian government must plan for a future where the differences between Mr. Trudeau and Mr. Trump will probably go far beyond style.,Trump,negative,0.4997
+12,NYT,"During the presidential campaign, Mr. Trump rejected action to mitigate climate change while Mr. Trudeau has made it a priority, including setting minimum national carbon taxes.",Trump,negative,0.9397
+12,NYT,"While Mr. Trudeau caught the world’s attention by fulfilling a promise to admit 25,000 refugees from Syria, Mr. Trump has proposed closing the United States’ doors to them.",Trump,negative,0.5593
+12,NYT,And Mr. Trump has argued that America’s allies should increase their military spending at a time when Mr. Trudeau is backing away from combat roles for Canada in favor of United Nations peacekeeping missions.,Trump,positive,0.6287
+12,NYT,"For a country with an economy that depends heavily on exports to the United States, the most worrying uncertainty for Canada involves Mr. Trump’s protectionist trade stance and his vow to renegotiate the North American Free Trade Agreement.",Trump,negative,0.9737
+12,NYT,"While Mr. Trump’s attacks on Nafta have mostly been aimed at Mexico, the pact, and the agreement between Canada and the United States that it incorporated, effectively left much of Canada’s industry largely producing for export.",Trump,negative,0.9326
+12,NYT,"Mark Warner, a trade lawyer in Toronto, said that while it was unclear what Mr. Trump had in mind for Nafta, he feared that a Trump administration would rekindle old trade battles with Canada.",Trump,negative,0.8913
+12,NYT,"Mark Warner, a trade lawyer in Toronto, said that while it was unclear what Mr. Trump had in mind for Nafta, he feared that a Trump administration would rekindle old trade battles with Canada.",Trump,negative,0.8913
+12,NYT,"In particular, he said he expected Mr. Trump to promote “Buy America” clauses in government infrastructure projects that would shut out Canadian companies — a violation of Nafta.",Trump,positive,0.7109
+12,NYT,"“As a gay, liberal, health care-loving Canadian, most of my friends thought I was crazy to be supporting Trump,” Ashley MacIsaac, who is perhaps Canada’s most famous fiddle player, said in an email.",Trump,positive,0.729
+12,NYT,If Trump Wins .,Trump,positive,0.5203
+12,NYT,"Andrew Griffith, a former director general of the citizenship and multiculturalism branch of Canada’s immigration department, said most of those suggesting they would leave because of Mr. Trump would not qualify as refugees and would have to go through a system that rates them based on factors such as education and job skills.",Trump,negative,0.8895
+13,NYT,"Whether or not Donald J. Trump follows through on his campaign pledges to diminish or possibly abandon American commitments to security alliances such as NATO, his election victory forces nations around the world to begin preparing for the day they can no longer count on the American-backed order.",Donald J. Trump,negative,0.9156
+13,NYT,"This creates a danger that derives less from Mr. Trump’s words, which are often inconsistent or difficult to parse, than from the inability to predict his actions or how other states might respond to them.",Trump,negative,0.9804
+13,NYT,"That uncertainty puts pressure on allies and adversaries alike to position themselves, before Mr. Trump even takes office, for a world that could be on the verge of losing one of its longest-standing pillars of stability.",Trump,negative,0.6705
+13,NYT,"Mr. Trump’s election comes at a moment when rising powers are already pushing against the American-led order: China in Asia, Iran in the Middle East, and particularly Vladimir V. Putin’s Russia in Europe.",Trump,neutral,0.6891
+13,NYT,"Allies in Europe or Asia, suddenly considering the prospect of facing a hostile power alone, cannot wait to see whether Mr. Trump means what he says, Mr. Goldgeier said, adding that they “will have to start making alternate plans now.”",Trump,negative,0.8209
+13,NYT,"As Donald J. Trump began to solidify his path to the presidency on Tuesday night, international markets fell sharply.",Donald J. Trump,positive,0.6545
+13,NYT,"Over the past year, I have been asking policy experts to evaluate Mr. Trump’s likely foreign policy, and they have consistently given me the same answer: They are unable to stitch Mr. Trump’s rambling speeches and scant white papers into a coherent worldview.",Trump,negative,0.9406
+13,NYT,"Over the past year, I have been asking policy experts to evaluate Mr. Trump’s likely foreign policy, and they have consistently given me the same answer: They are unable to stitch Mr. Trump’s rambling speeches and scant white papers into a coherent worldview.",Trump,negative,0.9396
+13,NYT,The difficulty of predicting Mr. Trump’s foreign policy could create other forms of destabilizing uncertainty.,Trump,negative,0.746
+13,NYT,"Asked about the international agreement to restrict Iran’s nuclear program , Daryl G. Kimball, director of the Arms Control Association, said it was unclear to him — and most likely to Middle Eastern leaders — whether Mr. Trump “would deliberately or inadvertently take actions that unravel that agreement.”",Trump,negative,0.9793
+13,NYT,"Because Middle Eastern countries would so struggle to predict or plan around Mr. Trump’s Iran policies, and because he seems thus far unlikely to win over European leaders whom he has insulted from the campaign trail, Mr. Kimball said, “the future of the Iran deal is now in greater jeopardy.”",Trump,negative,0.9848
+13,NYT,"Mr. Trump’s threats to withdraw American troops from the country, and North Korea’s growing nuclear and missile programs, “could be a tipping point,” Mr. Kimball said.",Trump,negative,0.9651
+13,NYT,"“If you’re in the Baltics, you now have no idea whether you can count on the U.S. if Putin makes a move,” Mr. Goldgeier said, referring to Mr. Trump’s suggestions that he might not fulfill American treaty obligations to defend a NATO ally such as Estonia from Russian aggression.",Trump,negative,0.857
+13,NYT,"Mr. Goldgeier said it was impossible to predict what precisely would happen, because Mr. Trump’s plans are broadly unknown and because it is difficult to guess how the world would meet drastic changes in the American role.",Trump,negative,0.8047
+13,NYT,"Mostly, we know what he opposes: “There’s no indication that Donald Trump wants to continue the kind of foreign policy that the U.S. has followed since World War II,” he said.",Donald Trump,negative,0.9335
+14,NYT,"Then, early on Wednesday, it watched as Donald J. Trump became the next American president: a man whose central campaign promises included building a wall between the two countries, upending decades-old trade deals and deporting millions of Mexican immigrants.",Donald J. Trump,positive,0.7788
+14,NYT,"For months, Mexico watched the campaign with a mix of fear and bemusement , forced to stare down a raw undercurrent of American vitriol unleashed by Mr. Trump’s candidacy.",Trump,negative,0.9454
+14,NYT,"Mr. Trump’s vow to renegotiate the North American Free Trade Agreement could greatly affect Canada, too.",Trump,negative,0.7748
+14,NYT,"In particular, he said, he expects Mr. Trump to promote “Buy America” clauses in government infrastructure projects that would shut out Canadian companies — a violation of Nafta.",Trump,positive,0.6969
+14,NYT,"Canadians reacted to Mr. Trump’s election with concern, even anxiety, but also a whiff of pride.",Trump,neutral,0.4659
+14,NYT,"Move-to-Canada memes started spreading as Mr. Trump looked increasingly likely to win Florida: “Election Night Starter Kit,” read a post on Instagram, above photos of United States passports and an Air Canada plane.",Trump,positive,0.8107
+14,NYT,"In Mexico City, the vote felt like something else entirely: a validation of Mr. Trump’s hostile remarks about Mexican immigrants, and a broad statement of disrespect.",Trump,negative,0.9841
+14,NYT,"Mr. Trump has been among the most powerful forces at play in Mexico this year, infuriating citizens of all stripes and even government officials with his anti-Mexican campaign.",Trump,negative,0.9803
+14,NYT,"Anger surged when the Mexican president, Enrique Peña Nieto, invited Mr. Trump to visit Mexico , an offer the candidate accepted.",Trump,neutral,0.8134
+14,NYT,"Now, it turns out Mr. Peña Nieto was right: Mr. Trump was not simply a candidate who could be ignored.",Trump,positive,0.4585
+14,NYT,"In a series of Twitter posts on Wednesday morning, Mr. Peña Nieto congratulated “the people of the United States for their electoral process” and reiterated his willingness to work with Mr. Trump “in favor of the bilateral relationship.”",Trump,positive,0.8518
+14,NYT,Mr. Trump has promised to build a wall between the two countries and make Mexico pay for it.,Trump,positive,0.7628
+14,NYT,"Mr. Trump argued that Mexico was the outsize beneficiary of Nafta, while American workers suffered job losses and stagnant wages, an argument that played well with segments of the American electorate.",Trump,neutral,0.5249
+14,NYT,"While Mexico is the second-largest destination for American goods, giving it some leverage in responding to actions taken by Mr. Trump, the countries have “a very asymmetrical relationship,” Mr. Castañeda said, meaning that in the end, there is little Mexico can do to apply pressure.",Trump,neutral,0.5187
+14,NYT,But an economic crisis could also turn into a migration crisis — exactly what Mr. Trump has campaigned for months to halt.,Trump,negative,0.5688
+14,NYT,Some were confident that Mr. Trump’s hostile talk as a candidate would ebb when he took office.,Trump,negative,0.9491
+14,NYT,"On trade, Mr. Riva Palacio argued that business groups and governors who supported Mr. Trump, including Gov. Greg Abbott of Texas, would impress upon him the importance of remaining in Nafta.",Trump,positive,0.8318
+14,NYT,"As for the wall Mr. Trump has vowed to build, “it will be very difficult for Donald Trump to obtain the budget,” he said.",Trump,negative,0.851
+14,NYT,"As for the wall Mr. Trump has vowed to build, “it will be very difficult for Donald Trump to obtain the budget,” he said.",Donald Trump,negative,0.8522
+14,NYT,"He argued that, ultimately, economics would temper Mr. Trump’s policies toward Mexico.",Trump,negative,0.5712
+14,NYT,"But he added that with the House of Representatives and the Senate remaining under Republican control , Mr. Trump’s victory signaled an ideological realignment that had not occurred in the United States since the election of President Ronald Reagan.",Trump,positive,0.9121
+15,NYT,"It will take weeks or months to fully parse Donald J. Trump’s upset presidential victory, but his campaign was driven, at least in part, by the dramatic rise of a new kind of white populism.",Donald J. Trump,negative,0.8526
+15,NYT,"It has fueled turmoil in the United States and Europe, including not just Mr. Trump’s election to the presidency, but Britain’s vote in June to leave the European Union and the rise of anti-immigrant, populist political parties across much of Continental Europe.",Trump,negative,0.9297
+15,NYT,"Just as Mr. Kaufmann’s research suggests, those places turned out to be strongholds of support for Mr. Trump, who has promised to build a wall along the border with Mexico and to begin mass deportations of undocumented immigrants.",Trump,positive,0.6939
+15,NYT,"When they are scared, they seek out strongman leaders and support harsh, punitive policies against immigrants and other outsiders — much as Mr. Trump has done.",Trump,negative,0.8026
+15,NYT,"Mr. Trump has played on those fears, declaring falsely during his campaign that America’s homicide rate was at its highest level in 45 years.",Trump,negative,0.9877
+15,NYT,"Although the boundaries of whiteness have always been blurry, they have traditionally excluded many who had white skin, including Jews, who were the targets of anti-Semitic attacks from many of Mr. Trump’s supporters during the campaign.",Trump,negative,0.8752
+15,NYT,"That can feel like a deeply painful loss, which perhaps explains why Mr. Trump has enjoyed consistently strong support in heavily white areas where children are likely to be less well off than their parents.",Trump,positive,0.8545
+15,NYT,That backlash fueled Mr. Trump’s candidacy.,Trump,negative,0.5448
+18,Fox News,"President-Elect Donald Trump to American People: “Spectacular Things” Headed Your Way
+Following his Oval Office sit-down, President-elect Trump spent his afternoon with Congressional leadership.",Donald Trump,positive,0.8768
+18,Fox News,"President-Elect Donald Trump to American People: “Spectacular Things” Headed Your Way
+Following his Oval Office sit-down, President-elect Trump spent his afternoon with Congressional leadership.",Trump,positive,0.878
+18,Fox News,"FOX’s�Jared Halpern has more from the Capitol:
+President-elect Trump emerged from a meeting with House Speaker Paul Ryan, promising to work rapdily on a legislative agenda that will include health care, immigration and taxes:
+(President-elect Trump) “I think we’re going to do some absolutely spectacular things for the American people.”
+Speaker Ryan offered the President-elect a look at the inaugural platform being constructed where Mr. Trump will be sworn-in next year.",Trump,positive,0.8381
+18,Fox News,"FOX’s�Jared Halpern has more from the Capitol:
+President-elect Trump emerged from a meeting with House Speaker Paul Ryan, promising to work rapdily on a legislative agenda that will include health care, immigration and taxes:
+(President-elect Trump) “I think we’re going to do some absolutely spectacular things for the American people.”
+Speaker Ryan offered the President-elect a look at the inaugural platform being constructed where Mr. Trump will be sworn-in next year.",Trump,positive,0.8349
+18,Fox News,"FOX’s�Jared Halpern has more from the Capitol:
+President-elect Trump emerged from a meeting with House Speaker Paul Ryan, promising to work rapdily on a legislative agenda that will include health care, immigration and taxes:
+(President-elect Trump) “I think we’re going to do some absolutely spectacular things for the American people.”
+Speaker Ryan offered the President-elect a look at the inaugural platform being constructed where Mr. Trump will be sworn-in next year.",Trump,positive,0.8381
+19,CNN,"In Donald Trump’s America, undocumented immigrants will be deported en masse, Arab Americans will be racially profiled and the United States will “bomb the s— out of ISIS.”",Donald Trump,negative,0.5602
+19,CNN,"In Trump’s America, foreign Muslims will be banned from the US, Syrian refugees sent back to their war-torn country and free trade agreements torn to shreds.",Trump,neutral,0.6947
+19,CNN,"In Trump’s America, the US attorney general will push to indict the president’s general election rival.",Trump,neutral,0.8553
+19,CNN,"But with many of his more extreme proposals opposed even by some Republicans in Congress, Trump will face an uphill climb to implement the very proposals that drew his most ardent supporters to his insurgent campaign.",Trump,negative,0.9387
+19,CNN,"Should he succeed, though, in implementing the policies that carried him to victory in the Republican primaries and ultimately the general election, Trump would usher in a radical reimagining of the United States from its laws to its values.",Trump,positive,0.911
+19,CNN,"Trump’s very election broke a set of barriers, becoming the first billionaire president and the first to have never before served in public office or the military.",Trump,positive,0.8661
+19,CNN,"Beyond his businessman credo, it seems voters were most drawn to Trump’s promises to shake up Washington and implement radical change in every sector of government.",Trump,positive,0.8865
+19,CNN,"Obamacare
+Trump has repeatedly promised to “immediately repeal and replace” Obamacare, to start.",Trump,negative,0.4053
+19,CNN,"But even with Trump in office, repealing and crafting a replacement for the law will be an arduous task in Congress, where Senate Democrats will fight the slim Republican majority’s efforts.",Trump,negative,0.728
+19,CNN,It’s still unclear exactly what Trump’s replacement will look like.,Trump,neutral,0.8534
+19,CNN,"Immigration
+Even as Trump has unrelentingly promised at his rallies to build a wall on the US southern border with Mexico, his plan does not yet appear to have the backing of Republican Senate Majority Leader Mitch McConnell, who repeatedly dodged a question on whether he supports the wall.",Trump,negative,0.8862
+19,CNN,"Trade
+On trade, the Republican nominee has vowed to renegotiate or completely withdraw the US from NAFTA, the free trade agreement with Canada and Mexico that Trump has dubbed the “worst trade deal in history.”",Trump,negative,0.8407
+19,CNN,"Trump’s presidency could radically alter the increasingly interconnected global economy, which has shot in the direction of more free trade, not less, in recent years.",Trump,positive,0.8965
+19,CNN,"Terrorism
+Trump will also seek to rethink how the US combats terrorists, tossing aside the attempts by Presidents George W. Bush and Barack Obama to bring Muslim-Americans and other Muslim countries into the fold, rather than risk alienating them.",Trump,negative,0.5704
+19,CNN,"Trump has said he would seek to work with Muslim countries eager to join in the fight against ISIS, but he has also stoked Islamophobic sentiment in the US and proclaimed, “Islam hates us.”",Trump,negative,0.6679
+19,CNN,"During his presidential bid, Trump called for the creation of a national database to register all Muslims living in the US, called for targeted surveillance of US mosques.",Trump,positive,0.6672
+19,CNN,"Trump has since focused on his “extreme vetting” proposal, which would include a ban on individuals from terror-prone countries, though he has not outlined which countries will be included in that list.",Trump,positive,0.6873
+19,CNN,Trump has at times said he is open to sending in tens of thousands of US troops and consistently vowed to “bomb the s***t out of ISIS.”,Trump,positive,0.7419
+19,CNN,"Economic policy
+Trump’s economic proposals have focused on tearing down government regulations he views as overly burdensome on US businesses – which would include undoing environmental protections erected under the Obama administration – and reforming the US tax code.",Trump,positive,0.6672
+19,CNN,"While he has promised to keep the proposals revenue-neutral, tax policy experts have said Trump’s proposals could add billions, if not trillions, of dollars to the US debt.",Trump,negative,0.8237
+19,CNN,"Ultimately, many in Washington and across the country are now wondering how much of Trump’s campaign promises will the soon-to-be president stick to once he walks into the Oval Office and the Situation Room.",Trump,negative,0.8801
+19,CNN,"Beyond the campaign promises and incendiary rhetoric during his 17 months campaigning for his job as president, Trump also repeatedly touted his willingness to compromise and reach “deals.”",Trump,positive,0.655
+19,CNN,"Pressed on his immigration proposals in March on Fox News, Trump offered a simple reply: “Everything is negotiable.”",Trump,neutral,0.7021
+20,CNN,Donald Trump maligned these loyal citizens and promised to ban their co-religionists from the country.,Donald Trump,negative,0.9879
+20,CNN,"You do get pleasers such as Sajid Tarar, founder of American Muslims for Trump.",Trump,neutral,0.8645
+21,NYT,"KOTOR, Montenegro — Just over an hour after Donald J. Trump secured his stunning triumph, President Vladimir V. Putin of Russia congratulated the victor and looked forward to “constructive dialogue.”",Donald J. Trump,positive,0.8745
+21,NYT,"China’s president, Xi Jinping, waited a little longer, sending Mr. Trump a similarly measured message of hope and appealing for “cooperation for mutual gain.”",Trump,positive,0.7135
+21,NYT,"The election of Mr. Trump on Tuesday has presented an unexpected gift to leaders — political, spiritual and ideological — who resent the encroachment of the West and now rejoice at a result that in their eyes shows how liberal democracy produces nothing but an angry populace and wild unpredictability.",Trump,positive,0.9028
+21,NYT,Mr. Trump has openly questioned some of the basic tenets of America’s role in the world.,Trump,negative,0.9506
+21,NYT,"Mr. Trump’s election is a “victory for Putin by which he gains a very strong case to be made about the crisis of traditional Western democracy and its institutions,” wrote Tatyana Stanovaya, an analyst for the Center for Political Technologies, a Russian research group.",Trump,positive,0.5573
+21,NYT,"For Russia, the triumph of Mr. Trump, just five months after Britain’s shock vote to leave the European Union, accelerates an unraveling of the Western order, a trend that the Kremlin has worked tirelessly to promote through disinformation and the funding of anti-establishment parties like the National Front in France.",Trump,negative,0.6894
+21,NYT,"Russian politicians and analysts cheered Mr. Trump’s victory as an opportunity for Russia to extend its global influence and, possibly, shed economic sanctions imposed by the United States and Europe over Crimea and Ukraine.",Trump,positive,0.7061
+21,NYT,"On Wednesday, the patriarch said he was praying for divine assistance for Mr. Trump, adding, “There’s now hope for good changes both domestically and internationally.”",Trump,positive,0.8041
+21,NYT,"In the days before the election, the Chinese government, eager to point out to its citizens the advantages of one-party rule by the Communist Party, used the nastiness of the Trump vs. Clinton contest to warn about the evils of American democracy.",Trump,negative,0.8005
+21,NYT,"President Xi, the head of the Communist Party, avoided mockery in his congratulatory message to Mr. Trump and emphasized that “I place great importance on the China-U.S. relationship,” while quietly advising him in coded language to stay out of China’s way.",Trump,neutral,0.5406
+21,NYT,"Although Mr. Trump’s intentions remained unclear, the very uncertainties of his victory have given the Chinese leader an opportunity to pursue a number of strategic advantages across Asia, analysts said.",Trump,negative,0.737
+21,NYT,"If Mr. Trump delivers on his promise to downgrade America’s traditional alliances in Asia, China will almost certainly capitalize on an American retreat by trying to push the United States aside in a region Beijing considers its natural sphere of influence.",Trump,negative,0.8659
+21,NYT,"Mr. Abe had taken big political risks at home to win concessions for the trade deal, which Mr. Trump has vilified.",Trump,negative,0.9616
+21,NYT,"The Trump triumph could also hold peril for Russia, where state media has for weeks presented the billionaire as a much-needed break from the supposedly Russophobic attitudes of President Obama and Hillary Clinton.",Trump,negative,0.7384
+21,NYT,"In a Facebook post, Andrey Loshak, a Russian journalist, predicted that Mr. Trump’s entry to the White House would deprive the Kremlin of what has become one of its most potent political tools: blaming the Obama administration for all of Russia’s troubles.",Trump,negative,0.7261
