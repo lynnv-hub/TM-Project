@@ -1,13 +1,9 @@
 ## How different news outlets frame elections globally
 - Fridolin, Jagoda, Lynn
 ## Abstract
-A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
-
 We want to examine how major news outlets report on elections across different countries. By comparing coverage across elections and outlets, it aims to show how media framing varies and to see if there are patterns across different countries. This matters because news framing shapes public perception of political events and influences how global elections are understood.
 
 ## Research questions
-A list of research questions you would like to address during the project. 
-
 How do different major US news outlets evaluate selected elections globally? 
 
 How consistent are outlet specific patterns when looking at different countries? 
@@ -17,8 +13,6 @@ How do the profiles of media outlets match their expected political alignment?
 How do GDELT sentiment scores compare to indepentently calculated ones?
 
 ## Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
-
 We use the GDELT data set. It includes major news outlets and it is possible to filter out for reactions to certain elections (e.g. pre election week + post election week) as it has thematic encoding. This data already has a sentimental score, but this could also be done ourselves and then compared to the GDELT scores.
 In practice articles about a specific election can be filtered out by using a time window, actors and key words (e.g. elections, president, parliament).
 We would use the US presidential elections 2020 and 2024, the German elections 2025, Polish elections 2019 and 2023, French parliamentary elections 2024. All those elections have rather clear outcomes and involved debates about populism and polarization.
