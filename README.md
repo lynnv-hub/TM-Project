@@ -23,6 +23,7 @@ Possible problems could be different amount of articles of the outlets per elect
 
 ## A tentative list of milestones for the project
 Add here a sketch of your planning for the coming weeks. Please mention who does what.
+
 *still tentative* 
 
 ### Data Collection and Cleaning
