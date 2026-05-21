@@ -1,4 +1,4 @@
-## How different news outlets frame elections globally
+## How different news outlets frame Trump throughout his election campaigns?
 - Fridolin, Jagoda, Lynn
 ## Abstract
 We want to examine how major news outlets report on elections across different countries. By comparing coverage across elections and outlets, it aims to show how media framing varies and to see if there are patterns across different countries. This matters because news framing shapes public perception of political events and influences how global elections are understood.
